@@ -1,0 +1,9 @@
+
+    QUESTION 7 :
+    Dans la dernière ligne de ce code, on teste que deux objets de SommeArgent ayant la même quantité (14) mais des unités différentes ("USD" et "CHF")
+    ne sont pas considérés comme égaux lorsqu'ils sont comparés à l'aide de la méthode equals().
+
+    QUESTION 9 :
+    Ces ensembles d'objets qui sont créés à chaque exécution d'une méthode de test sont appelés "fixtures" ou "ensembles de tests".
+    Ils permettent d'initialiser l'environnement de test avant chaque exécution,afin de s'assurer que chaque test est exécuté dans des conditions identiques et prévisibles.
+
